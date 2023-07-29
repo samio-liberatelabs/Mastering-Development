@@ -2,4 +2,4 @@
 
 Resources:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G3e-cpL7ofc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[HTML & CSS Full Course - Beginner to Pro by SuperSimpleDev](https://youtu.be/G3e-cpL7ofc)
