@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <title>4k - Margin & Padding together</title>
+        <style>
+            button {
+                background-color: green;
+                border: none;
+                color: white;
+                padding-left: 10px;
+                padding-right: 10px;
+                padding-top: 5px;
+                padding-bottom: 5px;
+                cursor: pointer;
+                transition: margin 0.15s, padding 0.15s;
+            }
+            .button-one {
+                margin-left: 10px;
+                margin-right: 5px;
+            }
+            .button-one:hover {
+                margin-left: 5px;
+                padding-left: 15px;
+                margin-right: 0px;
+                padding-right: 15px;
+            }
+            .button-two {
+                margin-left: 5px;
+                margin-right: 5px;
+            }
+            .button-two:hover {
+                margin-left: 0px;
+                padding-left: 15px;
+                margin-right: 0px;
+                padding-right: 15px;
+            }
+            .button-three {
+                margin-left: 5px;
+                margin-right: 5px;
+            }
+            .button-three:hover {
+                margin-left: 0px;
+                padding-left: 15px;
+                margin-right: 0px;
+                padding-right: 15px;
+            }
+        </style>
+    </head>
+    <body>
+        <button class="button-one">One</button>
+        <button class="button-two">Two</button>
+        <button class="button-three">Three</button>
+    </body>
+</html>
