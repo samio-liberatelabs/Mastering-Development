@@ -1,0 +1,25 @@
+p {
+    font: Arial;
+    font-size: 20px;
+    font-weight: bold;
+}
+.cat7a {
+    height: 200px;
+    border-radius: 10px;
+    margin: 50px;
+}
+
+.cat7b {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin: 50px;
+}
+
+.cat7c {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 100px;
+    margin: 50px;
+}
